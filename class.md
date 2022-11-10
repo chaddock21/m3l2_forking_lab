@@ -1,0 +1,2 @@
+haddock
+version control
